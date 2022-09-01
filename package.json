@@ -1,0 +1,26 @@
+{
+  "name": "mern-social-mediaa",
+  "version": "1.0.0",
+  "description": "make a social media app that allows users to sign up, login, post their thoughts and views, react or reply to a thought, add friends.",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "develop": "concurrently \"cd server && npm run watch\" \"cd client && npm start\"",
+    "install": "cd server && npm i && cd ../client && npm i",
+    "seed": "cd server && npm run seed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^5.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielCConlon/deep-thoughts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DanielCConlon/deep-thoughts/issues"
+  },
+  "homepage": "https://github.com/DanielCConlon/deep-thoughts#readme"
+}
