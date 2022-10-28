@@ -1,7 +1,8 @@
 # deep-thoughts
 
 - Github URL: https://github.com/DanielCConlon/deep-thoughts
-- Deployed Application: https://rocky-hollows-78387.herokuapp.com/
+- Deployed Application: updating heroku deployment
+<!-- https://rocky-hollows-78387.herokuapp.com/ -->
 
 # Goal
 
